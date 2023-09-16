@@ -4,7 +4,7 @@
 <p>Для выполнения запросов была использована документация REST API для управления проблемами и извлечением запросов:<p>
  
 <ol>
-<li>https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#about-issues<li>
+https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#about-issues
 </ol>
  
 <p>Для работы с методами мне потребовалось создать аккаунт на GitHub, создать репозиторий с произвольным содержимым и создать API-ключ на соответствующее приложение.
