@@ -10,9 +10,9 @@ https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#about-issues
 <p>Для работы с методами мне потребовалось создать аккаунт на GitHub, создать репозиторий с произвольным содержимым и создать API-ключ на соответствующее приложение.
 При выполнении работы были введены 3 переменные:<p> 
 <ol>
-{{baseURL}} - https://api.github.com/
-{{token}} - токен
-{{idiss}} - номер проблемы
+<br>{{baseURL}} - https://api.github.com/</br>
+<br>{{token}} - токен</br>
+<br>{{idiss}} - номер проблемы</br>
 </ol>
  
 Запросы:
