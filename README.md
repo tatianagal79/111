@@ -14,7 +14,7 @@ https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#about-issues
 <br>{{token}} - токен</br>
 <br>{{idiss}} - номер проблемы</br>
 </ol>
- 
+<ol>
 <br>Запросы:</br>
 <br>1.Создайте issue с названием Issue 1, описанием Something went wrong. Также у этой issue должен быть label — bug — и assignee — вы (текущий логин на GitHub).</br>
 <br>Для выполнения этого запроса был использован запрос POST  и получены ответ, который соответствует документации.</br>
@@ -24,3 +24,4 @@ https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#about-issues
 <br>Для выполнения этого запроса был использован запрос PATCH  и получены ответ, который соответствует документации.</br>
 <br>4. Удалите Issue 2.</br>
 <br>Документацией к API не предусмотрено удаление  Issue, поэтому запрос не удалось воспроизвести.</br>
+</ol>
