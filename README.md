@@ -5,15 +5,15 @@
  
 <ol>
 <li>https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#about-issues<li>
-<ol>
+</ol>
  
 <p>Для работы с методами мне потребовалось создать аккаунт на GitHub, создать репозиторий с произвольным содержимым и создать API-ключ на соответствующее приложение.
 При выполнении работы были введены 3 переменные:<p> 
 <ol>
 <li>{{baseURL}} - https://api.github.com/<li>
-<li>{{token}} - токен<li>
-<li>{{idiss}} - номер проблемы<li>
-<ol>
+<li>{{token}} - токен</li>
+<li>{{idiss}} - номер проблемы</li>
+</ol>
  
 Запросы:
 1.Создайте issue с названием Issue 1, описанием Something went wrong. Также у этой issue должен быть label — bug — и assignee — вы (текущий логин на GitHub).
